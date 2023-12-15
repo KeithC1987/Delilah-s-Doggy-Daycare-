@@ -207,12 +207,12 @@ main img{
 .clicked{
     background-color: #E5AF42;
 }
-.day-selector li:hover,
+/* .day-selector li:hover,
 .small-button:hover {
   text-decoration: none;
   background-color: #e5af42;
   color: black;
-}
+} */
 
 
 
